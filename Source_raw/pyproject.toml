@@ -1,0 +1,21 @@
+[project]
+name = "GuiWrap"
+version = "0.0.1"
+authors = [
+  { name="Example Author", email="author@example.com" },
+]
+description = ""
+readme = "README.md"
+requires-python = ">=3.3"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "PyQt6",
+]
+
+
+[project.urls]
+Homepage = "https://github.com/Mammoth-source/DateUser"
+Issues = "https://github.com/Mammoth-source/DateUser/issues"
